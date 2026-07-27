@@ -43,4 +43,8 @@ Yugandhar Aphale
 |  |
 | ------- |
 | [0551-student-attendance-record-i](https://github.com/yugandharaphale7/Quant-Trading-Lab/tree/master/0551-student-attendance-record-i) |
+## Array
+|  |
+| ------- |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/yugandharaphale7/Quant-Trading-Lab/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 <!---LeetCode Topics End-->
