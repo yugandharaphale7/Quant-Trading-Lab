@@ -47,4 +47,8 @@ Yugandhar Aphale
 |  |
 | ------- |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/yugandharaphale7/Quant-Trading-Lab/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/yugandharaphale7/Quant-Trading-Lab/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
