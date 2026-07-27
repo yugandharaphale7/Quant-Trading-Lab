@@ -36,3 +36,11 @@ docs/
 ## Author
 
 Yugandhar Aphale
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0551-student-attendance-record-i](https://github.com/yugandharaphale7/Quant-Trading-Lab/tree/master/0551-student-attendance-record-i) |
+<!---LeetCode Topics End-->
